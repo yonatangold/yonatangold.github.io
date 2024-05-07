@@ -1,0 +1,273 @@
+
+## Academic Positions
+
+[<font size='3' color='grey'>2024--</font>]{.column-sidebar}
+[Postdoctoral researcher <br> **Department of Nordic Studies and Linguistics, University of Copenhagen**]{.column-body}
+
+[<font size='3' color='grey'>2023--2024</font>]{.column-sidebar}
+[Assistant professor (1 year maternity cover) <br> **Department of Culture and Learning, Aalborg University**]{.column-body}
+
+[<font size='3' color='grey'>2018--2023</font>]{.column-sidebar}
+[PhD fellow <br> **Scandinavian Studies, Aarhus University**]{.column-body}
+
+[<font size='3' color='grey'>2012--2018</font>]{.column-sidebar}
+[Various teaching and research assistant positions <br> **School of Culture and Society, Aarhus University**]{.column-body}
+
+
+## Education
+
+[<font size='3' color='grey'>2023</font>]{.column-sidebar}
+[**PhD** in Scandinavian studies <br> **Aarhus University**]{.column-body}
+
+[<font size='3' color='grey'>2020</font>]{.column-sidebar}
+[**MA** in Linguistics <br> **Aarhus University**]{.column-body}
+
+[<font size='3' color='grey'>2015</font>]{.column-sidebar}
+[**BA** in Linguistics and Arab and islamic studies <br> **Aarhus University**]{.column-body}
+
+
+## Internationalization
+
+[<font size='3' color='grey'>2021</font>]{.column-sidebar}
+[**University of Edinburgh** <br> School of Philosophy, Psychology and Language Sciences <br>
+3 month research visit]{.column-body}
+
+
+[<font size='3' color='grey'>2015, 2016</font>]{.column-sidebar}
+[**Excellence Center -- Hebron ** <br> Intensive Arabic language program <br> 1 full semester plus an additional summer school]{.column-body}
+
+## Grants and awards
+
+[<font size='3' color='grey'>2020</font>]{.column-sidebar}
+[Per Slohmans Legat, €1.900 <br>
+Augustinus Fonden travel grant, €1.500]{.column-body}
+
+[<font size='3' color='grey'>2015</font>]{.column-sidebar}
+[Aarhus University Arts travel grant, €800 <br>]{.column-body}
+
+
+## Conference and workshop organizing
+
+
+[<font size='3' color='grey'>2023</font>]{.column-sidebar}
+[*Aarhus Prosody Workshop* <br>
+Aarhus University, 9 September]{.column-body}
+
+[<font size='3' color='grey'>2021</font>]{.column-sidebar}
+[*Workshop on prosodic variation and change in Danish* <br>
+Aarhus University, 15--16 December]{.column-body}
+
+[<font size='3' color='grey'>2020</font>]{.column-sidebar}
+[*18. Møde om udforskningen af dansk sprog (MUDS)* <br>
+Aarhus University, 8--9 October]{.column-body}
+
+
+[<font size='3' color='grey'>2018</font>]{.column-sidebar}
+[*17. Møde om udforskningen af dansk sprog (MUDS)* <br>
+Arhus University, 11--12 October]{.column-body}
+
+
+[<font size='3' color='grey'>2015</font>]{.column-sidebar}
+[*Tenth Creolistics Workshop* <br>
+Arhus University, 10 April]{.column-body}
+
+## Reviewing
+
+### Journal articles
+
+*Danske studier* (2024)<br>
+*Globe: A Journal of Language, Culture and Communication* (2023)<br>
+*Nordlyd* (2021)
+
+### Proceedings articles
+
+*Møderne om udforskningen af dansk sprog* (2019, 2021, 2023)<br>
+*International Seminar on the Foundations of Speech* (2023)
+
+### Conference abstracts
+
+*Laboratory Phonology* (2022) <br>
+*Møderne om udforskningen af dansk sprog* (2019, 2021)<br>
+
+## Other experience
+
+### Professional experience
+[<font size='3' color='grey'>2011--</font>]{.column-sidebar}
+[Public speaking on Israel/Palestine in schools, high schools, and various organizations]{.column-body}
+
+[<font size='3' color='grey'>2013--2016</font>]{.column-sidebar}
+[Research assistant at *Cognitive Creolistics*]{.column-body}
+
+
+### Volunteer work
+[<font size='3' color='grey'>2011--</font>]{.column-sidebar}
+[Solidarity Activist at *International Solidarity Movement* in Palestine]{.column-body}
+
+[<font size='3' color='grey'>2015--2018</font>]{.column-sidebar}
+[Exercises with new students during intro week in BA Linguistics, Aarhus University]{.column-body}
+
+[<font size='3' color='grey'>2015</font>]{.column-sidebar}
+[Organizing and hosting intro week for new students at the BA in Arab and islamic studies, Aarhus University]{.column-body}
+
+[<font size='3' color='grey'>2013--2015</font>]{.column-sidebar}
+[Cofounder and organizer of *Kønsanalytisk Forum* (Student forum for gender studies)]{.column-body}
+
+
+[<font size='3' color='grey'>2014</font>]{.column-sidebar}
+[Mentor for new students at the BA in Linguistics, Aarhus University]{.column-body}
+
+[<font size='3' color='grey'>2013</font>]{.column-sidebar}
+[Organizing and hosting intro week for new students at the BA in Linguistics, Aarhus University]{.column-body}
+
+[<font size='3' color='grey'>2012-2013</font>]{.column-sidebar}
+[Coorganizing and hosting weekly extracurricular activities with the student organization ViGør at Linguistics, Aarhus University]{.column-body}
+
+## Languages
+
+**Danish**: Native
+
+**English**: Full professional proficiency
+
+**Arabic**: Basic speaking proficiency in MSA and Palestinian dialect <br> Coursework 2014--2016
+
+**Hebrew**: Decent passive proficiency, basic communicative proficiency
+
+**German**: Decent passive proficiency, basic communicative proficiency
+
+**Spanish**: Basic passive and communicative proficiency <br> 3 years of high school courses (2008--2011)
+
+**Swedish**: Fluent reading and very high passive proficiency
+
+**Norwegian**: Fluent reading and very high passive proficiency
+
+**Waigali** (Nuristani): Basic knowledge and very low communicative proficiency <br> 
+Recurrent "fieldwork" with native speaker in 2016-2017
+
+**Ancient Greek**: Low proficiency<br> 3 years of high school courses (2008--2011)
+
+**Latin**: Low proficiency<br> 3 years of high school courses (2008--2011)
+
+## Coding and technical skills
+
+`R`: Decent proficiency <br>
+Data processing, statistical analysis, typesetting (with Quarto)
+
+`Praat`: Decent proficiency <br>
+Acoustic analysis, scripting
+
+`Python`: Decent proficiency <br>
+Data processing, machine learning
+
+`LaTeX`: Decent proficiency <br>
+Typesetting, TikZ
+
+## Statistical expertise
+
+Linear and logistic (mixed) models <br>
+Exploratory multivariate analysis (PCA, MCA, MFA, HMFA) <br>
+Deep Boltzmann Machines
+
+
+## Teaching
+
+### Full term courses
+
+#### Aalborg University
+
+[<font size='3' color='grey'>2024</font>]{.column-sidebar}
+[*Current Scandinavian research topic: affect* <br>
+MA Scandinavian studies <br>
+Gave a lecture series on conversation analytic approaches to affect <br>
+Co-taught with Louise Brix Jacobsen and Jens Lohfert Jørgensen]{.column-body}
+
+
+[<font size='3' color='grey'>2024</font>]{.column-sidebar}
+[*Current theories and methods in Scandinavian Studies* <br>
+MA Scandinavian studies <br>
+Gave a lecture series on basic conversation analytic methodology <br>
+Co-taught with Louise Brix Jacobsen and Jens Lohfert Jørgensen]{.column-body}
+
+
+[<font size='3' color='grey'>2024</font>]{.column-sidebar}
+[*Discourse analysis* <br>
+BA Scandinavian studies <br>
+Taught weekly seminars on discourse and conversation analysis<br>
+Co-taught with Louise Brix Jacobsen and Jens Lohfert Jørgensen]{.column-body}
+
+[<font size='3' color='grey'>2024</font>]{.column-sidebar}
+[*Discourse analysis* <br>
+BA Scandinavian studies <br>
+Taught weekly seminars on discourse and conversation analysis<br>
+Co-taught with Louise Brix Jacobsen and Jens Lohfert Jørgensen]{.column-body}
+
+
+[<font size='3' color='grey'>2024</font>]{.column-sidebar}
+[*Elementary linguistics II* <br>
+BA Scandinavian studies <br>
+Taught weekly seminars on the phonetics of Danish<br>
+Co-taught with Laura Band Lindegaard]{.column-body}
+
+
+[<font size='3' color='grey'>2023</font>]{.column-sidebar}
+[*Language in context* <br>
+MA Scandinavian studies <br>
+Taught weekly seminars on sociolinguistics and dialectology]{.column-body}
+
+[<font size='3' color='grey'>2023</font>]{.column-sidebar}
+[*Linguistic research project* <br>
+BA Scandinavian studies <br>
+Taught weekly seminars on sociolinguistics and discourse analysis <br>
+Co-taught with Laura Band Lindegaard]{.column-body}
+
+[<font size='3' color='grey'>2023</font>]{.column-sidebar}
+[*Norwegian and Swedish* <br>
+BA Scandinavian studies <br>
+Lecture series on comparative North Germanic linguistics]{.column-body}
+
+
+#### Aarhus University
+[<font size='3' color='grey'>2022</font>]{.column-sidebar}
+[*Current research topic: language norms* <br>
+BA Scandinavian studies <br>
+Taught weekly seminars on sociolinguistics focusing on language norms and ideologies <br>
+Co-taught with Inger Schoonderbeek Hansen]{.column-body}
+
+[<font size='3' color='grey'>2022</font>]{.column-sidebar}
+[*Elementary linguistics* <br>
+BA Scandinavian studies <br>
+Taught weekly seminars on Danish grammar, semantics, and historical lingusitics]{.column-body}
+
+[<font size='3' color='grey'>2021-2022</font>]{.column-sidebar}
+[*Language variation* <br>
+BA Scandinavian studies <br>
+2022: Taught weekly seminars <br>
+2021: Seminars (Co-taught with Henrik Jørgensen) ]{.column-body}
+
+[<font size='3' color='grey'>2020</font>]{.column-sidebar}
+[*Spoken and written Danish* <br>
+BA Scandinavian studies <br>
+Taught weekly seminars on Danish grammar, phonetics and historical linguistic in hyrbid format]{.column-body}
+
+[<font size='3' color='grey'>2016-2017</font>]{.column-sidebar}
+[*Morphology and syntax* <br>
+BA Linguistics <br>
+2017: Seminars (co-taught with Aymeric Daval-Marcussen)<br>
+2016: Seminars (co-taught with Jan Rijkhoff)]{.column-body}
+
+### Supervision
+
+[<font size='3' color='grey'>2024</font>]{.column-sidebar}
+[2 MA Theses (3 students), Aalborg University]{.column-body}
+
+[<font size='3' color='grey'>2023</font>]{.column-sidebar}
+[2 BA Theses (6 students), Aalborg University<br>
+2 MA Semester projects -- Language in context (3 students), Aalborg University<br>
+9 BA Linguistic research projects (22 students), Aalborg University]{.column-body}
+
+### Guest lectures
+[<font size='3' color='grey'>2020</font>]{.column-sidebar}
+[The history of North Germanic word accents, Scandinavian studies, University of Oslo<br>
+Quantitative methods in dialectology, Scandinavian studies, Aarhus University]{.column-body}
+
+[<font size='3' color='grey'>2019</font>]{.column-sidebar}
+[Multilingualism, Scandinavian studies, Aarhus University]{.column-body}

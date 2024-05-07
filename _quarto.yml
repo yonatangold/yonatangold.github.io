@@ -1,0 +1,72 @@
+# This file controls the settings for your Quarto template from www.marvinschmitt.com
+
+# website settings
+website:
+  title: "Yonatan Goldshtein"                                # Your name
+  #description: "Yonatan is a linguist"   # A brief slogan (optional)
+  image: img/my_image.jpg
+  
+  #favicon: img/favicon.png
+  
+  # start of the navigation bar at the top of the website
+  navbar:
+    pinned: true
+    #logo: /img/logo.png
+    
+    # your sub-pages
+    left:
+     # - text: "Research"
+     #    href: research/index.qmd
+      - text: "Academic output"
+        href: output/index.qmd
+      - text: "CV"
+        href: cv/index.qmd
+     # - text: "Palestine"
+    #    href: palestine/index.qmd
+    
+    # your social media handles
+    right:
+    - icon: facebook
+      href: https://www.facebook.com/natanoystone
+    - icon: linkedin
+      href: https://www.linkedin.com/in/yonatan-goldshtein-82562b69/
+    - icon: envelope
+      href: "mailto:yonatanug@ikl.aau.dk"
+    - icon: la:university
+      href: https://www.ku.dk/english/    
+  
+  
+
+# Don't touch unless you know what you are doing :) ------------
+  search: 
+    location: navbar
+    type: textbox
+  page-footer: 
+    left: |
+      <span class="faux-block"><a href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/">Quarto template used to make this website</a></span>
+ 
+project:
+  type: website
+  output-dir: docs
+
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
+format:
+  html:
+    fontsize: 1.1em
+    theme: 
+      - pulse
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
