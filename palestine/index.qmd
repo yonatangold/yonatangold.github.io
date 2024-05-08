@@ -1,28 +1,70 @@
 ---
-title: Projects
+title: Palestine
 ---
 
-## The Languages of Middle-earth
+I have been actively enganged in Palestine solidarity work since 2011 when I first joined the [International Solidarity Movement](https://palsolidarity.org/) (ISM) as an activist in Palestine. Between 2011 and 2018, I have spent approximately two years living on the West Bank, mostly in Hebron but also in Bethlehem and Jerusalem. During my many stays in the Occupied Palestinian Territories, I have witnessed immense injustice and brutality from Israeli settlers and solidiers alike. From Palestine and at home in Denmark, I have continously written about what I have seen in Palestine, appeard in various media outlets, and spoken at schools and various organizations.
 
-<img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2210.07278', 'blank');"/>
+Below, I have gathered some of my writings and media appearances, most of which is in Danish. The rest of this pages will be in Danish.
 
-<a href="https://arxiv.org/abs/2210.07278" target="_blank">arXiv Preprint</a> | <a href="https://github.com/marvinschmitt/MetaUncertaintyPaper" target="_blank">Code</a><br>
+## Foredrag
+Siden jeg først begyndte at tage til de besatte områder i Palæstina, har jeg holdt foredrag om mine oplevelser. Det er blevet til over 50 foredrag på højskoler, efterskoler, gymnasier og i diverse foreninger. Mit foredrag fortæller en personlig historie om at vokse op med Israel/Palæstina-konflikten tæt på som dansk jøde med israelsk familie. Foredraget handler om hvordan mit syn på konflikten ændrede gennem mit møde med palæstinenserne, og hvordan jeg endte med at bruge over to år af mit liv på den Vestbredden og dokumentere livet for palæstinensere under israelsk besættelse. I foredraget fortæller jeg blandt andet om 2014, hvor jeg var i Israel og på Vestbredden mens Israel udførte sit hidtil voldsomste angre på Gaza. Gennem mine oplevelser forsøger jeg at give noget nuancer og noget kontekst til konflikten som sjældent finder plads i den offentlige samtale.
 
-Over the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion.
+Hvis du er interesseret i, at jeg kommer og holder foredrag på din skole eller i din forening, er du velkommen til at kontakte mig på [mail](mailto:yona.u.gold@gmail.com).
 
-----
+Nedenfor findes en liste over nogle af mine skriverier og medieoptrædender, der relaterer sig til Palæstina. Listen er ikke komplet og vil blive opdateret løbende.
 
-## The History of the War of the Ring
+## Skriverier
 
-<img src="project_2_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2112.08866', 'blank');"/>
+"Jødiske fredsaktivister i åbent brev til overrabbiner Jair Melchior: Dit brobyggeri graver grøfterne dybere". *Solidaritet* med Jonathan Ofir, 15. marts 2024. [Link](https://solidaritet.dk/joediske-fredsaktivister-i-aabent-brev-til-overrabbiner-jair-melchior-dit-brobyggeri-graver-groefterne-dybere/)
 
-<a href="https://arxiv.org/abs/2112.08866" target="_blank">arXiv Preprint</a> | <a href="https://github.com/marvinschmitt/ModelMisspecificationBF" target="_blank">Code</a><br>
+"Verdens jøder skal ikke holdes ansvarlige for Israels ugerninger". *Jyllands-Posten* med flere medforfattere, 29. februar 2024. [Link](https://jyllands-posten.dk/debat/kronik/ECE16880201/verdens-joeder-skal-ikke-holdes-ansvarlige-for-israels-ugerninger/)
 
-I am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth's history and provide valuable insights into the motivations and actions of the various players involved.
+"Jødisk fredsaktivist: For de unge i Gaza er israelerne ikke mennesker, men en ansigtsløs fjende, der holder dem indespærret og slår dem ihjel". *Politiken*, 10. Oktober 2023. [Link](https://politiken.dk/debat/debatindlaeg/art9564751/For-de-unge-i-Gaza-er-israelerne-ikke-mennesker-men-en-ansigtsl%C3%B8s-fjende-der-holder-dem-indesp%C3%A6rret-og-sl%C3%A5r-dem-ihjel)
+
+"Dansk-jødisk ph.d. studerende: Israels ledelse ser palæstinenserne som cancer" *Politiken*, 9. April 2019 [Link](https://politiken.dk/debat/debatindlaeg/art7127774/Israels-ledelse-ser-pal%C3%A6stinenserne-som-cancer)
+
+"Jødisk studerende: Racismen ligger dybt i det israelske samfund" *Politiken*, 18. August 2014. [Link](https://politiken.dk/debat/art5529790/J%C3%B8disk-studerende-Racismen-ligger-dybt-i-det-israelske-samfund)
+
+"Ikke i mit navn" *Information*, 30. juli 2014. [Link](https://www.information.dk/debat/2014/07/navn?page=1)
+
+"Sorg bliver til had og historien gentager sig" *Information*, 8. juli 2014. [Link](https://www.information.dk/debat/2014/07/sorg-had-historien-gentager)
+
+Mellem 2013 og 2016 havde jeg en [fast blog](https://modkraft.dk/blogs/yonatan-ungermann-goldshtein) på venstrefløjsplatformen Modkraft
 
 
-```{=html}
-<div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
-</div>
-```
+## Taler
+
+Tale ved demonstrationen *Beskyt civile liv* arrangeret af Amnesty International og Mellemfolkeligt Samvirke 28. oktober 2023 [Link](https://www.dansketaler.dk/tale/yonatan-goldshteins-tale-ved-demonstrationen-beskyt-civile-liv)
+
+## Interviews
+
+Aziz, Hedi Nermin. "Dødstrusler og social udstødelse. Fire danske jøder fortæller om prisen for deres Israel-kritik" *Globanyt.dk*, 10. april 2024 [Link](https://globalnyt.dk/doedstrusler-og-social-udstoedelse-fire-danske-joeder-fortaeller-om-prisen-for-deres-israel-kritik/#:~:text=deres%20Israel%2Dkritik-,D%C3%B8dstrusler%20og%20social%20udst%C3%B8delse%20%E2%80%93%20Fire%20danske%20j%C3%B8der%20fort%C3%A6ller%20om%20prisen,det%20har%20haft%20for%20dem.)
+
+Saxtrup, Peter. "Yonatan Goldshtein: Israel er et forbillede for autoritære stater i hele verden" *Solidaritet*, 3. juni 2021
+
+Markert, Jakob. "Konflikten raser igen i Israel". *NetAvisen*, 5. november 2015. [Link](https://navisen.dk/blog/konflikten-raser-igen-i-israel/)
+
+Broberg, Mads Bonde. "Jødisk gruppe: »Meget problematisk« at fjerne anti-bosætterreklame", *Jyllands-Posten*, 7. maj 2015. [Link](https://jyllands-posten.dk/indland/ECE7688009/J%C3%B8disk-gruppe-%C2%BBMeget-problematisk%C2%AB-at-fjerne-anti-bos%C3%A6tterreklame/) 
+
+Lohse, Gregers. "Dansk sangerinde trodser vrede fans", 12. marts 2015. [Link](https://www.dr.dk/nyheder/kultur/musik/dansk-sangerinde-trodser-vrede-fans)
+
+
+## Podcast og radio
+
+"Jeg kan ikke se andre årsager end hævnen. Det er i hvert fald ikke sikkerhed" *DERFOR - Politiken Podcast*, 17. oktober 2023 [Link](https://politiken.dk/podcast/den_levende/art9575842/DERFOR-%C2%BBJeg-kan-ikke-se-andre-%C3%A5rsager-end-h%C3%A6vnen.-Det-er-i-hvert-fald-ikke-sikkerhed%C2%AB)
+
+Dansk-israeler: “Hvis du deler dine tanker højt i Israel, får du tæsk”. *Det muslimer taler om - Radio 24|7* [Link](https://www.spreaker.com/episode/dansk-israeler-hvis-du-deler-dine-tanker-hojt-i-israel-far-du-taesk--57443251)
+
+## Fjernsynsdebatter
+
+*Debatten* med Clement Kjærsgaard på DR2, 12. Oktober 2024
+
+Debat i *Deadline* på DR2 med Finn Rudaizky, 2015
+
+Debat i *Deadline* på DR2 med Jonathan Møller Sousa, 30. juli 2014. [Youtube](https://www.youtube.com/watch?v=yO1nFpmStIg)
+
+*Debatten* med Clement Kjærsgaard på DR2, 2012
+
+## Andre medieoptrædender
+
+Holmgaard, Anders. "Blodindsmurte Yonatan bortvist fra Israels ambassade", *Berlingske*, 18. september 2014
